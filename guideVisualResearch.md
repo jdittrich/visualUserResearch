@@ -39,6 +39,12 @@ Many people don’t like drawing since they think they are expected to produce a
 
 > »When I say documenting by drawing and writing it does not mean that we are going to produce an artwork here. This is what the end result may look like« [Show an example from an unrelated area of research. It should *not* be research you did with picasso, by the way]
 
+<!-- 
+Support  for showing examples: The efficiency and effectiveness of utilizing diagrams in interviews, Umoquit et.al, 2008: Participants had questions in regard of what they should/can do (31% if the participants) when being interviewed with the "Participatory Diagramming" method, which is similar to what is shown here. 
+
+
+-->
+
 ## Document and Explore
 
 ![participant starts to fill out the template](images/diagram_beginFillOut-640x480.jpg)
@@ -128,22 +134,28 @@ As well explain what happens with the data:
 
 <!-- place side by side -->
 
-
-
 The first step is to compare the diagrams and make annotations. For this, you can photocopy the diagrams and write on the copies. If you like to keep it digital, you can use any application which can add text over images (e.g. the free [inkscape](http://inkscape.org/). If made additional notes or voice recording use these too to supplement the information in the diagrams.
 
 ### Look for patterns
+
+<!--
+…by comparison
+* Comparison between same diagrams, different participants
+* Comparison between different diagrams, same participant. 
+ -->
 
 ![diagrams put side by side, similarities highlighted in different colors](images/Bsp_analysisAnnotations.png)
 
 Look for similar or interrelated information, mark these and write down your thoughts.
 If you assume there is some pattern that is consistent between the diagrams, check if the pattern can be found in diagrams and notes of several participants and if there is any other information that contradicts it.
 
+<!-- combine with notes --->
+
 ### Summarize
 
 Create a visual summary of the data using informations which are consistent or similar across your participants’ diagrams and/or your other notes.
 
-There is not one "ideal" representation for a visual summary of your participant’s diagram s and mappings. It should be data based but this does not mean that two people will create exactly the same visual summary out of the same data.
+There is not one »ideal« representation for a visual summary of your participant’s diagram s and mappings. It should be data based but this does not mean that two people will create exactly the same visual summary out of the same data.
 
 ### Analysis examples:
 <!-- the cafe theme should guide through the guide -->
@@ -207,8 +219,11 @@ These templates provide a structure for frequent research interests. Below, in t
 
 **German:** [Social Diagram](images/Menschen_zusammenarbeit.svg) [Mood Graph](images/GutSchlechtZeit_Diagramm.svg) [images/Aufgaben.svg](Task List)
 
+<!-- 
+actual map
+-->
 
-####Social Diagram
+#### Social Diagram
 Ask to map the connections and tasks of people (and possibly devices) the participant works with. If participants ask if they may include something (e.g. books instead of only persons) encourage them to do it and use the additional data.
 
 If they mention tools, devices and place, ask if you can see them, in case you are in the place they describe.
@@ -244,11 +259,17 @@ After having an overview of activities I choose the one (or several) that appear
 <figure><a href="images/Bsp_Task.png"><img class="pure-img" src="images/Bsp_Task.png"></a><figcaption>Example</figcaption></figure>
 </div>
 
-<p>When documenting the process, the participants usually only write down the general steps. After they are satisfied I go through their list and ask questions, like <em>You wrote “Distributing team work” – how do you do this?</em> or <em>This point “Let the milk cool down” – what happens if you skip this?</em>
+<p>When documenting the process, the participants usually only write down the general steps. After they are satisfied I go through their list and ask questions, like <em>You wrote »Distributing team work« – how do you do this?</em> or <em>This point »Let the milk cool down« – what happens if you skip this?</em>
 </p>
 <p>In addition, I may ask for a demonstration.
 </p>
 <p>I add the information I asked for as notes and sketches, either in another color or by creating references to another note sheet using (latin) numbers.</p>
+
+<!-- 
+* Node-Link-Diagrams
+* 
+
+-->
 
 ### Create your own templates
 
@@ -256,22 +277,25 @@ Creating your own templates is not rocket science. However there are some things
 
 * It should be similar to a kind of diagram the participant already knows. The templates above correspond to forms like Mindmaps (for the social template), lists (for the Task List and Describe Process-template) and simple line graphs (the mood graph.)
 * Include a small example on the template or on a different sheet of paper, so the participant knows how the result may look like. Just don’t use an example out of the domain you do research in.
-* Iterate the templates and improve them during your research. If you meet problems with the template, design a new, hopefully improved version before doing the next research session. The templates above have gone through several iterations which concerned the example (It had "Lorem Ipsum" on it, and some asked why this is in latin), the wording of the headline and the combination of fields in the templates (the mood graph did originally not have the "is good:"/"is bad:"-Lists at the bottom)
+* Iterate the templates and improve them during your research. If you meet problems with the template, design a new, hopefully improved version before doing the next research session. The templates above have gone through several iterations which concerned the example (It had »Lorem Ipsum« on it, and some asked why this is in latin), the wording of the headline and the combination of fields in the templates (the mood graph did originally not have the »is good:«/»is bad:«-Lists at the bottom)
 
 ### Literature
 * Sanders, Liz, and Pieter Jan Stappers. *Convivial design toolbox: generative research for the front end of design*. BIS, 2012.
 
-* Literat, Ioana. "“A Pencil for Your Thoughts”: Participatory Drawing as a Visual Research Method with Children and Youth." International Journal of Qualitative Methods 12 (2013): 84-98.
+* Literat, Ioana. »A Pencil for Your Thoughts«: Participatory Drawing as a Visual Research Method with Children and Youth. International Journal of Qualitative Methods 12 (2013): 84-98.
 
 If you want to learn about interviewing and research:
 
 * [Beginner’s Guide To User Needfinding](http://jdittrich.github.io/userNeedResearchBook/)
+
 
 Some other mapping methods which are *not* concerned with collecting information, but organizing and displaying it. They provided inspiration for the visual methods described here: 
 
 * [Customer Journey Mapping](http://www.smashingmagazine.com/2015/01/15/all-about-customer-journey-mapping/) (Smashing Magazine)
 * [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) (Wikipedia) 
 * [Service Design Blueprint](https://en.wikipedia.org/wiki/Service_blueprint) (Wikipedia)
+
+Sketchnotes look similar to the participant’s visualizions since they combine diagramming, sketches and text. In contrast, Sketchnotes are not based on templates and intended (personal) note keeping. [Examples of sketchnotes can be found on sketchnotearmy](http://sketchnotearmy.com/)
 
 ### License
 
