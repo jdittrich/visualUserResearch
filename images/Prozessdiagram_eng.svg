@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="Prozessdiagram 5_eng.svg"
+   inkscape:export-filename="/home/jan/Dropbox/Projects/blog_ongoing/templateActivityDocumentation.png"
+   inkscape:export-xdpi="140"
+   inkscape:export-ydpi="140">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1488.189 : 526.18109 : 1"
+       inkscape:persp3d-origin="744.09448 : 350.78739 : 1"
+       id="perspective3021" />
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path3888"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         id="path3885"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         id="path3894"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3870"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="405.30497"
+     inkscape:cy="802.76994"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="776"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-to-guides="false">
+    <sodipodi:guide
+       orientation="1,0"
+       position="742.85714,520"
+       id="guide3105" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="370.72598,826.30478"
+       id="guide3111" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="370.72598,958.57143"
+       id="guide3013" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="44.951788,855.59921"
+       id="guide3015" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3037"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="395.47472,826.80986"
+       id="guide3884" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="302.14286,1014.2857"
+       id="guide3040" />
+    <sodipodi:guide
+       position="51.785715,821.78572"
+       orientation="1,0"
+       id="guide4218" />
+    <sodipodi:guide
+       position="405,925"
+       orientation="1,0"
+       id="guide4226" />
+    <sodipodi:guide
+       position="284.28572,621.42857"
+       orientation="1,0"
+       id="guide4230" />
+    <sodipodi:guide
+       position="187.85714,582.85715"
+       orientation="0,1"
+       id="guide4232" />
+    <sodipodi:guide
+       position="467.70063,1034.3962"
+       orientation="0,1"
+       id="guide4246" />
+    <sodipodi:guide
+       position="539.16892,1076.065"
+       orientation="0,1"
+       id="guide4250" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,5.2302535e-5)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.88990826;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="42.857136"
+       y="46.362175"
+       id="text3881"><tspan
+         sodipodi:role="line"
+         x="42.857136"
+         y="46.362175"
+         id="tspan3893"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'">Create a how-to guide for an activity/a task</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3041"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.88990826;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro"><flowRegion
+         id="flowRegion3043"><rect
+           id="rect3045"
+           width="21.428572"
+           height="18.571428"
+           x="396.42856"
+           y="210.93361"
+           style="font-weight:normal;-inkscape-font-specification:Source Sans Pro" /></flowRegion><flowPara
+         id="flowPara3047" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.88990826;fill:#000000;fill-opacity:1;stroke:none"
+       x="51.482422"
+       y="114.01772"
+       id="text3071"><tspan
+         sodipodi:role="line"
+         id="tspan3073"
+         x="51.482422"
+         y="114.01772"><tspan
+           style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Source Sans Pro';fill:#000000"
+           id="tspan3075">Name of the activity</tspan></tspan></text>
+    <text
+       id="text3079"
+       y="269.63635"
+       x="50.880005"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.88990826;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="269.63635"
+         x="50.880005"
+         id="tspan3081"
+         sodipodi:role="line">I do it, when…</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.88990826;fill:#000000;fill-opacity:1;stroke:none"
+       x="50.997116"
+       y="361.8353"
+       id="text3085"><tspan
+         sodipodi:role="line"
+         x="50.997116"
+         y="361.8353"
+         id="tspan3025">Result/Goal</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1.0101525,458.72745 741.8469875,0"
+       id="path3109"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3113"
+       y="107.2103"
+       x="404.30014"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.88990826;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="107.2103"
+         x="404.30014"
+         sodipodi:role="line"
+         id="tspan3392">I dislike about the activity (problems/unpleas-</tspan><tspan
+         y="127.2103"
+         x="404.30014"
+         sodipodi:role="line"
+         id="tspan3396">ant things): </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.02106452px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 743.47227,1.2697812 0,1050.1109188"
+       id="path3119"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3041"
+       d="m 45.390671,321.29887 299.927059,0"
+       style="fill:#000000;stroke:#000000;stroke-width:0.63584405px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.63780278px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 45.230148,413.76223 301.777732,0"
+       id="path3043"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.88990826;fill:#000000;fill-opacity:1;stroke:none"
+       x="44.873093"
+       y="479.8544"
+       id="text3048"><tspan
+         sodipodi:role="line"
+         x="44.873093"
+         y="479.8544"
+         style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Source Sans Pro';fill:#000000"
+         id="tspan3050">Step↓</tspan></text>
+    <text
+       id="text3052"
+       y="482.42584"
+       x="284.87311"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.88990826;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan3054"
+         style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Source Sans Pro';fill:#000000"
+         y="482.42584"
+         x="284.87311"
+         sodipodi:role="line">Notes, Sketches, Tools, Skills, possible Problems…↓</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.88990826;fill:#000000;fill-opacity:1;stroke:none"
+       x="45.444527"
+       y="451.99728"
+       id="text3040"><tspan
+         sodipodi:role="line"
+         x="45.444527"
+         y="451.99728"
+         style="font-weight:bold;font-size:16px;-inkscape-font-specification:'Source Sans Pro Bold';fill:#000000;font-family:'Source Sans Pro';font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan3042">Write down the steps for doing the activity</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 45.641227,206.58458 301.063453,0"
+       id="path3050"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3052"
+       d="m 45.832488,160.87029 301.063462,0"
+       style="fill:#000000;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.63704753px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 396.70629,158.80799 301.06345,0"
+       id="path3054"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3056"
+       d="m 396.70629,204.80799 301.06345,0"
+       style="fill:#000000;stroke:#000000;stroke-width:0.63704753px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 395.76879,250.80799 302.00095,0"
+       id="path3058"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3060"
+       y="284.82233"
+       x="403.44943"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.88990826;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="284.82233"
+         x="403.44943"
+         sodipodi:role="line"
+         id="tspan3062">I do the activity because… (motivations) </tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3064"
+       d="m 395.95378,323.52227 301.06345,0"
+       style="fill:#000000;stroke:#000000;stroke-width:0.63704753px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.63704753px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 395.96078,367.80799 301.06345,0"
+       id="path3066"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3068"
+       d="m 395.4303,415.97151 301.06345,0"
+       style="fill:#000000;stroke:#000000;stroke-width:0.63704753px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Bold"
+       x="48.029057"
+       y="1038.7218"
+       id="text3050"><tspan
+         sodipodi:role="line"
+         id="tspan3052"
+         x="48.029057"
+         y="1038.7218"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#555753;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro">this template is licensed under CC 4. BY (https://creativecommons.org/licenses/by/4.0/)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 45.479748,102.80287 0,104.0457"
+       id="path3390"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4216"
+       d="m 45.301182,258.3966 0,63.23052"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 45.158322,350.96359 0,63.23052"
+       id="path4220"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 395.87261,94.71003 0,156.41709"
+       id="path4222"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4228"
+       d="m 395.71636,274.21003 0,142.04209"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.59558868;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4234"
+       d="m 1.0101525,56.72745 498.4002275,0"
+       style="fill:#000000;stroke:#000000;stroke-width:0.81965661px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.88990826;fill:#888a85;fill-opacity:1;stroke:none"
+       x="545.66022"
+       y="73.62001"
+       id="text4238"><tspan
+         id="tspan4242"
+         sodipodi:role="line"
+         x="545.66022"
+         y="73.62001">User Code</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4248"
+       d="m 547.1378,59.252151 158.63194,0"
+       style="fill:#888a85;stroke:#000000;stroke-width:0.46242163px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

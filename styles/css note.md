@@ -1,0 +1,1 @@
+* Der Trick ist, den Text-Bereich mit dem Ausklappen des Menüs um irgendwas (e.g. 150px) nach links zu verschieben. Da dabei position: relative angewand wird, wird der Text auch nicht neu umgebrochen. 
