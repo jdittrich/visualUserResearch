@@ -1,4 +1,5 @@
-
+<!--pandoc  --toc -V lang:en -H templates/includeHeader.pandoc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/normalize.css -c styles/styles.css -c styles/print.css -c styles/autoToc.css  -t html5 -o index.html guideVisualResearchMetadata.yaml guideVisualResearch.md
+ --->
 
 
 ## A different way to find user needs
@@ -9,7 +10,15 @@ I thought of a way of researching user needs with a methods that enables beginne
 
 Doing so would provide a scaffold for doing the research, it may help to focus on the users and not on features and having a shared visual reference helps participant and researcher alike to structure the research. Here, I show how I use such visual methods.
 
-The method I demonstrate here will still involve asking questions and observing users. However, the data gathering revolves around documenting experiences with sketches and notes on paper. While the participants notes and sketches will be an important part of the sketches, the researcher adds to them too: To make the information comprehensible to us we will ask questions and add supplementing information like additional notes and sketches
+The method I demonstrate here will still involve asking questions and observing users. However, the data gathering revolves around documenting experiences with sketches and notes on paper. While the participants notes and sketches will be an important part of the sketches, the researcher adds to them too: To make the information comprehensible to us we will ask questions and add supplementing information like additional notes and sketches.
+
+### Related concepts
+
+Graphical representations are often in the design process, for example as user journey maps or service blueprints [^Kalbach2016]. In contrast to the methods demonstrated here, these diagrams are typically created *after* the user research and serve less for data gathering and analysis but for showing research results and for helping teams to find a common vision. 
+
+For data gathering and analysis graphical methods have been used for research on social structures of families [^Harold2015], research on reproductive health [^Kesby2000], drug recovery therapy  [^Czuchry1995] and psychotherapy [^Mattaini1993]. It maybe a reasonable objection that diagramming is more difficult for people than being interviewed, however, there is evidence that e.g. pupil with a low verbal ability can benefit from instructional diagrams in learning [^Nesbit2006], and Node-Link style diagrams have been used in a teaching context with »fourth- and fifth-grade students« [^Chung1999] and even – with adult support – in preschool [^Cassata2006]. Thus, despite of the abstraction needed to create a node-link-map, it seems to be an accessible method for participants.
+
+
 
 ## Get ready
 
@@ -20,7 +29,7 @@ Like with other forms of user research, we need to make some preparations for ou
 
 You can as well write down some questions on a cheat sheet you want to ask or points to focus on. If make additional notes you can do it on the same sheet.
 
-If you write down questions you want to ask keep in mind that they should be »how« or »why«- Questions: So called »open questions«. You should avoid »closed questions«, questions that can be answered simply with »yes« or »no«. We ask open questions, since they give us new information, and encourage the participant to draw and write about processes and reasons.
+If you write down questions, focus on »how« or »why«- Questions: So called »open questions« – they don't suggest a particular answer. You should avoid »closed questions«, questions that can be answered simply with »yes« or »no«. We ask open questions, since they give us new information, and encourage the participant to draw and write about processes and reasons.
 
 > Open questions would be:
 >
@@ -35,14 +44,18 @@ Before the interview starts, you set up the participant. This includes greeting,
 
 > „We are going to document your […whatever process you are interested in…] together so that I can understand […aspects of it…] better. We will do this mainly by writing and drawing on paper. Sometimes I may not understand things since I am new to your field, so I may ask questions, add notes to the paper or ask for a demonstration.
 
-Many people don’t like drawing since they think they are expected to produce artworks or accurate sketches.
+Many people don’t like drawing since they think they are expected to produce artworks or accurate sketches. 
 
-> »When I say documenting by drawing and writing it does not mean that we are going to produce an artwork here. This is what the end result may look like« [Show an example from an unrelated area of research. It should *not* be research you did with picasso, by the way]
+> »When I say documenting by drawing and writing, it does not mean that we are going to produce an artwork here. This is what the end result may look like« 
+
+Show an example from an unrelated area of research  so they can easily grasp what you are going for since participants be unsure of that [^questionsUmoquit] [^Umoquit2011]. 
+
+They also might think that you do some sort of test if they do things »right«, so it makes sense to clarify that you are not testing them: 
+
+> I am interested in how you work and why you do it the way you do. This is not some sort of test and there is no wrong and right. 
 
 <!-- 
 Support  for showing examples: The efficiency and effectiveness of utilizing diagrams in interviews, Umoquit et.al, 2008: Participants had questions in regard of what they should/can do (31% if the participants) when being interviewed with the "Participatory Diagramming" method, which is similar to what is shown here. 
-
-
 -->
 
 ## Document and Explore
@@ -97,7 +110,7 @@ Another kind of recording is separate from the diagrams. In particular to rememb
 
 ### Managing the flow between topics and templates over the course of the session
 
-After you feel that you got enough information on a particular topic you can transition to another one. Let’s say you started by talking about the flow of a workday. Now you got an overview and you want to know about the activities the participant does.
+When you feel that you got enough information from a particular perspective you can transition to another perspective. Let’s say you started by talking about the flow of a workday. Now you got an overview and you want to know about the activities the participant does.
 
 <div class="gallery three">
   ![](images/VisResearchCafe_U7U8U9_Social_small-640x476.png)
@@ -128,15 +141,29 @@ As well explain what happens with the data:
 
 > I will  gather some more data from a few other people. When I got to know about their work as well, I will start to analyse the data to find commonalities and differences regarding the works you do. I will identify typical problems and activities that could be supported better in the future. I and my team will create designs to do that and hopefully make your work more efficient and more enjoyable in the future.
 
+After the debrief, supplement your notes (if you made any aside of the diagram) and supplement the diagram with information and clarification. Memory fade quickly and right after the research session you still remember much and can help your future self by adding annotations so you still can make sense of the data later.
+
 ##Analysis
 
-### Prepare the Analysis
+### Annotations
 
-<!-- place side by side -->
+In the analysis you will write annotations on the diagrams. For this, you can photocopy the diagrams and write on the copies. If you like to keep it digital, you can use any application which can add text over images (e.g. the free [inkscape](http://inkscape.org/). 
 
-The first step is to compare the diagrams and make annotations. For this, you can photocopy the diagrams and write on the copies. If you like to keep it digital, you can use any application which can add text over images (e.g. the free [inkscape](http://inkscape.org/). If made additional notes or voice recording use these too to supplement the information in the diagrams.
+![Annotations in a diagram](images/AnalysisDesign1.png)
 
-### Look for patterns
+
+### Analyse by comparison
+
+The most important tool for analysis are comparisions. You can start with doing comparisions as soon as you did two (graphical) interviews. 
+
+
+Start by comparing the same type of diagram between different participants: How does the up and down of emotions differ between them? How does their workflow differ? Annotate the differences in the diagramms or write your analysis on a seperate sheet of paper Using this methods, you can find common patterns in your data. 
+
+If you assume there is some pattern that is consistent between the diagrams, check if the pattern can be found in diagrams and notes of several participants and if there is any other information that contradicts it.
+
+If you do further interviews, you can compare the new diagrams and notes with the diagrams and notes of previous interviews. As well, compare it with the current preliminary results of your analysis to see if you are able to support it with the new data or if the additional data might induce changes and improvements of your preliminary results.
+
+You may also compare diagrams of the same participant in order to find any connections between the different perspectives: Are the people that lift up a participants mood also present in the diagram of social environment? What is the role of the collegue in the social envirionment diagram in the workflows? This makes your data more rich and helps to represent the interconnectedness of the diferent perspectives.
 
 <!--
 …by comparison
@@ -144,10 +171,13 @@ The first step is to compare the diagrams and make annotations. For this, you ca
 * Comparison between different diagrams, same participant. 
  -->
 
-![diagrams put side by side, similarities highlighted in different colors](images/Bsp_analysisAnnotations.png)
+<div class="gallery four">
+![2](images/AnalysisDesign2.png)
+![3](images/AnalysisDesign3.png)
+![4](images/AnalysisDesign4.png)
+![notes](images/AnalysisDesignNotes.png)
+</div>
 
-Look for similar or interrelated information, mark these and write down your thoughts.
-If you assume there is some pattern that is consistent between the diagrams, check if the pattern can be found in diagrams and notes of several participants and if there is any other information that contradicts it.
 
 <!-- combine with notes --->
 
@@ -157,16 +187,20 @@ Create a visual summary of the data using informations which are consistent or s
 
 There is not one »ideal« representation for a visual summary of your participant’s diagram s and mappings. It should be data based but this does not mean that two people will create exactly the same visual summary out of the same data.
 
+The visual summary may look much like the diagrams it is based on, but it is an artificial, visual summery. 
+
 ### Analysis examples:
 <!-- the cafe theme should guide through the guide -->
 
 After annotating these diagrams I searched for patterns and summarized them visually:
 
-<div class"gallery two">
+<div class="gallery two">
+
 ![U11U12U13_Social](images/VisResearchCafe_U11U12U13_Social_small.png)
 ![U7U8U9_Social](images/VisResearchCafe_U7U8U9_Social_small.png)
-![U7U8U9_Social](images/VisResearchCafe_U2_Social_small.png)
+![U7U8U9_Social](images/VisResearchCafe_U2_Social.png)
 ![U1_Social](images/VisResearchCafe_U1_Social_small.png)
+
 </div>
 
 The visual summary with the consistent information from the different participants looked like this:
@@ -179,7 +213,7 @@ Though I emphasized consistency here, you can as well put contradictory or singu
 
 The following diagrams were drawn by designers who describe the process of working on freelance projects. The diagrams focused on what they liked or disliked in the process:
 
-<div class"gallery three">
+<div class="gallery three">
 ![](images/U1_GoodBadTime_Diagramm.svg)
 ![](images/U2_GoodBadTime_Diagramm.svg)
 ![](images/U3_GoodBadTime_Diagramm.svg)
@@ -242,6 +276,13 @@ Ask your participants to draw the course of their feelings over a specific time 
    <figure><a href="images/Bsp_GutSchlechtZeit_Diagramm.svg"><img class="pure-img" src="images/Bsp_GutSchlechtZeit_Diagramm.svg"></a><figcaption>Example</figcaption></figure>
 </div>
 
+#### Spacial Map
+
+Ask the participant to draw a top-down-map and add details. The map could show e.g. the office and the participant is asked to draw devices, furniture etc. that are relevant for his/her work. You can start with a totally blank map or provide some scaffold. In the above example you could provide an archtectural floorplan with walls, windows and doors to relive the burden from the participant to figure this out. 
+
+
+![The map here shows not original research, but only how the results may have looked like if a participant drew a map of the cafe and things that are relevant for his/her work](images/fakedUserResearchMapOfM18Cafe_small.png)
+
 
 #### Task List and Describe Process
 ##### Step 1: List tasks
@@ -300,3 +341,25 @@ Sketchnotes look similar to the participant’s visualizions since they combine 
 ### License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Visual User Need Research</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="fordes.de" property="cc:attributionName" rel="cc:attributionURL">Jan Dittrich</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+### Footnotes
+[^questionsUmoquit]: Umoquit (2011) notes that some participants express difficulties of discomfort when asked to work with graphical methods.
+
+
+[^Harold2015]: Harold, Rena D., Lucy R. Mercer, and Lisa G. Colarossi. "Eco maps: A tool to bridge the practice-research gap." J. Soc. & Soc. Welfare 24 (1997): 29.
+
+[^Kesby2000]: Kesby, Mike. "Participatory diagramming as a means to improve communication about sex in rural Zimbabwe: a pilot study." Social science & medicine 50.12 (2000): 1723-1741.
+
+[^Czuchry1995]: Czuchry, Michael, et al. "The use of node-link mapping in drug abuse counseling: The role of attentional factors." Journal of Psychoactive Drugs 27.2 (1995): 161-166.
+
+[^Mattaini1993]:Mattaini, Mark A. More than a thousand words: Graphics for clinical practice. NASW Press, 1993.
+
+[^Kalbach2016]: Kalbach, James. Mapping Experiences: A Complete Guide to Creating Value Through Journeys, Blueprints, and Diagrams. " O'Reilly Media, Inc.", 2016.
+
+[^Nesbit2006]: Nesbit, John C., and Olusola O. Adesope. "Learning with concept and knowledge maps: A meta-analysis." Review of educational research 76.3 (2006): 413-448.
+
+[^Chung1999]: Chung, G. K. W. K., Howard E. Herl, and Davina CD Klein. Knowledge mapping in the classroom: A tool for examining the development of students' conceptual understandings. Center for the Study of Evaluation, National Center for Research on Evaluation, Standards, and Student Testing, 1999.
+
+[^Cassata2006]:Cassata, Amy E., and Lucia French. "Using concept mapping to facilitate metacognitive control in preschool children." (2006): 590-597.
+
+[^Umoquit2011]: Umoquit, Muriah J., et al. "A multidisciplinary systematic review of the use of diagrams as a means of collecting data from research subjects: application, benefits and recommendations." BMC medical research methodology 11.1 (2011): 1.
